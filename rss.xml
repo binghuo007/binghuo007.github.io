@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 11 Jul 2024 15:20:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[hello**]]></title>
+            <guid>f75583f1ac124d3d8000ae499510ee5a</guid>
+            <pubDate>Thu, 11 Jul 2024 13:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>hello world</strong></p>
+<p>欢迎！</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
